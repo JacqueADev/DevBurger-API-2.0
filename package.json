@@ -1,0 +1,17 @@
+{
+  "name": "devburger-api-2.0",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jacqueline Andreia Duarte",
+  "url": "https://github.com/JacqueADev",
+  "license": "ISC",
+  "description": "DevBurger-API",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
