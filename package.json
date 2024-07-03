@@ -4,7 +4,7 @@
   "main": "src/server.js",
   "type": "module",
   "scripts": {
-    "dev": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node src/server.js"
   },
   "keywords": [],
   "author": "Jacqueline Andreia Duarte",
